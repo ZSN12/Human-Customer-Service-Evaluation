@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/f2a8a870-aaca-4f41-a01d-6f46dc82a53b
 # 📦 AI-Powered Service Auditor: 电商人工客服全量质检中台
 
 > **“从 5% 盲抽到 100% 审计，让每一份服务质量都具备可追溯的业务洞察。”**
@@ -54,7 +56,13 @@
 
 ## 📊 界面预览 (Quick Preview)
 
-> *(建议：在这里放入你录制好的系统操作动图 .gif 或 UI 截图)*
+> *<img width="400" height="197" alt="人工客服质检" src="https://github.com/user-attachments/assets/469a7359-bd11-410a-acc3-36cd2284988d" />
+> *
+
+https://github.com/user-attachments/assets/1da66609-1ab0-497d-b247-f1f8e7d76c8f
+
+
+
 
 * **指标看板**：展示总会话数、平均得分、合格率、满分率等全局指标。
 * **诊断中心**：展示 AI 自动生成的【专家诊断建议】卡片。
