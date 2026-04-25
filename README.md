@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/f2a8a870-aaca-4f41-a01d-6f46dc82a53b
 # 📦 AI-Powered Service Auditor: 电商人工客服全量质检中台
 
 > **“从 5% 盲抽到 100% 审计，让每一份服务质量都具备可追溯的业务洞察。”**
@@ -55,11 +53,9 @@ https://github.com/user-attachments/assets/f2a8a870-aaca-4f41-a01d-6f46dc82a53b
 ---
 
 ## 📊 界面预览 (Quick Preview)
+*
 
-> *<img width="400" height="197" alt="人工客服质检" src="https://github.com/user-attachments/assets/469a7359-bd11-410a-acc3-36cd2284988d" />
-> *
-
-https://github.com/user-attachments/assets/1da66609-1ab0-497d-b247-f1f8e7d76c8f
+https://github.com/user-attachments/assets/5f0a44a4-2768-475f-8d24-3fc3d6aef404
 
 
 
@@ -69,14 +65,9 @@ https://github.com/user-attachments/assets/1da66609-1ab0-497d-b247-f1f8e7d76c8f
 * **交互式报告**：点击会话 ID，支持下钻查看每一句对话的扣分依据与优化操作。
 
 ---
+---
 
-## ⚙️ 快速启动 (Quick Start)
+## 🔐 履约声明与交流邀请 (Compliance & Let's Talk)
 
-### 环境配置
-```bash
-# 1. 克隆项目到本地 
-git clone [https://github.com/ZSN12/AI-Service-Auditor.git](https://github.com/ZSN12/AI-Service-Auditor.git)
-cd AI-Service-Auditor
-
-# 2. 安装依赖环境
-pip install -r requirements.txt
+> ⚠️ **合规声明 (Disclaimer)**
+> 本项目为实习期间深度参与的商业化落地项目。基于职业素养与保密协议（NDA），本仓库**仅作产品架构、策略逻辑与脱敏界面的展示，暂不开源核心业务代码、Prompt 指令集及真实生产数据**。演示视频中的分析内容均为随机生成的 Mock Data。
