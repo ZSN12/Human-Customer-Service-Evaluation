@@ -61,6 +61,7 @@ https://github.com/user-attachments/assets/5f0a44a4-2768-475f-8d24-3fc3d6aef404
 
 <img width="800" height="1000" alt="Welcome to FigJam" src="https://github.com/user-attachments/assets/98ad0889-eb36-486b-beca-a761c31d0b9a" />
 ---
+
 * **指标看板**：展示总会话数、平均得分、合格率、满分率等全局指标。
 * **诊断中心**：展示 AI 自动生成的【专家诊断建议】卡片。
 * **交互式报告**：点击会话 ID，支持下钻查看每一句对话的扣分依据与优化操作。
