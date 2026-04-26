@@ -65,7 +65,6 @@ https://github.com/user-attachments/assets/5f0a44a4-2768-475f-8d24-3fc3d6aef404
 * **交互式报告**：点击会话 ID，支持下钻查看每一句对话的扣分依据与优化操作。
 
 ---
----
 
 ## 🔐 履约声明与交流邀请 (Compliance & Let's Talk)
 
