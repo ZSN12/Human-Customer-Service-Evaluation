@@ -60,7 +60,6 @@ https://github.com/user-attachments/assets/5f0a44a4-2768-475f-8d24-3fc3d6aef404
 ### 系统流转架构
 
 <img width="800" height="1000" alt="Welcome to FigJam" src="https://github.com/user-attachments/assets/98ad0889-eb36-486b-beca-a761c31d0b9a" />
----
 
 * **指标看板**：展示总会话数、平均得分、合格率、满分率等全局指标。
 * **诊断中心**：展示 AI 自动生成的【专家诊断建议】卡片。
@@ -72,3 +71,7 @@ https://github.com/user-attachments/assets/5f0a44a4-2768-475f-8d24-3fc3d6aef404
 
 > ⚠️ **合规声明 (Disclaimer)**
 > 本项目为实习期间深度参与的商业化落地项目。基于职业素养与保密协议（NDA），本仓库**仅作产品架构、策略逻辑与脱敏界面的展示，暂不开源核心业务代码、Prompt 指令集及真实生产数据**。演示视频中的分析内容均为随机生成的 Mock Data。
+
+> 💡 **开发模式声明 (Vibe Coding)**
+> 本项目代码由作者通过 **Vibe Coding** 模式主导架构设计，并驱动 AI 协作完成。旨在探索“人机协同”在复杂工程落地中的效率极限。
+* **Let's Talk**: 欢迎通过 [15990070647@163.com](mailto:15990070647@163.com) 与我交流大模型商业化落地、成本优化策略及 Vibe Coding 实践经验。
